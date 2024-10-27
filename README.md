@@ -40,8 +40,8 @@ The number of credit cards expiring in the year 2020 was identified, totaling 98
 
 Top Email Providers:
 The five most popular email providers among customers were identified:
-hotmail.com: 1,638
-yahoo.com: 1,616
-gmail.com: 1,605
-smith.com: 42
+hotmail.com: 1,638,
+yahoo.com: 1,616,
+gmail.com: 1,605,
+smith.com: 42,
 williams.com: 37
